@@ -1,0 +1,15 @@
+[theme]
+# Màu đỏ chủ đạo cho hệ thống Tim mạch
+primaryColor = "#E63946"
+
+# Màu nền ngoài cùng (Xám nhạt sang trọng, đỡ mỏi mắt)
+backgroundColor = "#F4F6F9"
+
+# Màu nền của Sidebar và các khối (Trắng tinh)
+secondaryBackgroundColor = "#FFFFFF"
+
+# Màu chữ (Xanh đen đậm, sắc nét hơn màu đen thui mặc định)
+textColor = "#1D3557"
+
+# Font chữ hiện đại
+font = "sans serif"
